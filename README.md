@@ -49,11 +49,4 @@ This project benchmarks six supervised learning algorithms on a real-world loan 
 - **Logistic Regression** remained interpretable but underperformed in recall (0.539).  
 - SHAP confirmed the importance of **loan-to-income ratio**, **interest rate**, and **housing tenure** as key predictors.  
 
----
-
-## 🚀 How to Use
-Clone the repository:
-```bash
-git clone https://github.com/<your-username>/Credit-Default-Risk-Prediction-with-Explainable-Machine-Learning.git
-cd Credit-Default-Risk-Prediction-with-Explainable-Machine-Learning
 
