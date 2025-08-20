@@ -4,7 +4,7 @@ This repository contains the research paper and implementation code for “Credi
 Accurately predicting credit default risk is critical for lenders, regulators, and policymakers.
 This project benchmarks six supervised learning algorithms on a real-world loan dataset of 28,638 applicants:
 
-Logistic Regression
+#·Logistic Regression
 
 Decision Tree
 
